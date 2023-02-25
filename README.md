@@ -5,10 +5,10 @@ Este repositorio es una colección de hojas de personaje para Dungeons &amp; Dra
 - Hoja de Personaje (Oficial)
 - Hoja de Personaje (Sin líneas)
 - Hoja de Lanzador de Conjuros (Oficial)
-
-## Proximamente
 - Hoja de Personaje (Formulario)
 - Hoja de Lanzador de Conjuros (Formulario)
+
+## Proximamente
 - Hojas de Personaje Oficiales (Alternativas)
 - Hojas de Personaje Alternativas
 - Hojas de Referencia
